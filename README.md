@@ -10,10 +10,6 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - 🌱 I’m currently learning ReactJs.
 - :pencil2: learn UI/UX on free days.
 - :musical_note: I love playing guitar and hear classic instrumental music.
-- 
-<img src="https://lottiefiles.com/24972-hi" data-canonical-src="./images/bottom.png"   />
-
-https://lottiefiles.com/24972-hi
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/alchemistphantom"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
