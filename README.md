@@ -1,5 +1,6 @@
 <!-- <img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" style="object-fit:contain"  /> -->
-# Hi There, I'm Alchemisphantom
+<img  align="left" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="200" height="200" />
+# Hi There, I'm Alchemisphantom 
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=alchemistphantom&color=red)&nbsp;
 [![GitHub alchemistphantom](https://img.shields.io/github/followers/alchemistphantom?label=follow&style=social)](https://github.com/alchemistphantom)&nbsp;
@@ -10,8 +11,6 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - 🌱 I’m currently learning ReactJs.
 - :pencil2: learn UI/UX on free days.
 - :musical_note: I love playing guitar and hear classic instrumental music.
-
-<img src="./images/hi.gif" data-canonical-src="./images/bottom.png" width="100px" width="500px" height="200" />
 
 ### Let's Connect :coffee:
 <p align="center">
