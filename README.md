@@ -1,4 +1,4 @@
-<img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" height="400" />
+<img src="./images/top.png" data-canonical-src="./images/top.png" width="100%"  />
 
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=alchemistphantom&color=red)&nbsp;
