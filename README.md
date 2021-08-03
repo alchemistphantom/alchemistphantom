@@ -11,7 +11,7 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - :pencil2: learn UI/UX on free days.
 - :musical_note: I love playing guitar and hear classic instrumental music.
 
-<img src="./images/hi.gif" data-canonical-src="./images/bottom.png" width="100%"  />
+<img src="./images/hi.gif" data-canonical-src="./images/bottom.png" width="100%" width="200" height="200" />
 
 ### Let's Connect :coffee:
 <p align="center">
