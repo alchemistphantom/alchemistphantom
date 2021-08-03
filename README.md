@@ -1,6 +1,6 @@
 <!-- <img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" style="object-fit:contain"  /> -->
 # Hi There, I'm Alchemisphantom 
-<img  align="right" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="200" height="200" />
+<img  align="right" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="400" height="400" />
 
 
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
