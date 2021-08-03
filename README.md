@@ -16,7 +16,7 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - :musical_note: I love playing guitar and hear classic instrumental music. <br/>
 
 ### Let's Connect :coffee:
-<p align="left">
+<p align="center">
 	<a href="https://github.com/alchemistphantom"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jery-i-d-lenas-6b6045136/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/alchemistphantom/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
