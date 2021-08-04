@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +46,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4225" />
+     inkscape:current-layer="surface1" />
   <defs
      id="defs4221">
     <g
@@ -1117,25 +1118,30 @@
     <g
        clip-path="url(#clip1)"
        id="g4225"
-       clip-rule="nonzero">
+       transform="scale(1,0.79926221)"
+       style="clip-rule:nonzero">
       <use
          mask="url(#mask0)"
-         transform="matrix(1,0,0,1,1,0.000000000000047631)"
+         transform="matrix(1,0,0,0.84920228,1,0)"
          xlink:href="#surface5"
          id="use4223"
-         style="fill:#008080" />
+         style="fill:#008080"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:81.99611664px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96089202"
-       x="287.30673"
-       y="287.61777"
+       x="311.9949"
+       y="191.45888"
        id="text4276"
-       transform="scale(0.93034452,1.0748706)"><tspan
+       transform="scale(0.93034454,1.0748706)"><tspan
          sodipodi:role="line"
          id="tspan4274"
-         x="287.30673"
-         y="287.61777"
+         x="311.9949"
+         y="191.45888"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffffff;stroke-width:0.96089202">HEY, I'M JERY LENAS</tspan></text>
   </g>
 </svg>
