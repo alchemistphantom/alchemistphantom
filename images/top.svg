@@ -39,14 +39,21 @@
      inkscape:window-width="1366"
      inkscape:window-height="715"
      id="namedview4266"
-     showgrid="false"
-     inkscape:zoom="0.39184064"
-     inkscape:cx="850.77104"
-     inkscape:cy="361.99039"
+     showgrid="true"
+     inkscape:zoom="0.19592032"
+     inkscape:cx="1117.0124"
+     inkscape:cy="134.76123"
      inkscape:window-x="-8"
      inkscape:window-y="22"
      inkscape:window-maximized="1"
-     inkscape:current-layer="surface1" />
+     inkscape:current-layer="svg4264"
+     inkscape:snap-grids="false"
+     showguides="false"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4561" />
+  </sodipodi:namedview>
   <defs
      id="defs4221">
     <g
@@ -1114,11 +1121,12 @@
     </g>
   </defs>
   <g
-     id="surface1">
+     id="surface1"
+     transform="translate(-15.312348,715.85225)">
     <g
        clip-path="url(#clip1)"
        id="g4225"
-       transform="scale(1,0.79926221)"
+       transform="scale(1,0.81664071)"
        style="clip-rule:nonzero">
       <use
          mask="url(#mask0)"
@@ -1133,15 +1141,15 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:81.99611664px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96089202"
-       x="305.82285"
-       y="162.96736"
+       style="font-style:normal;font-weight:normal;font-size:73.79485321px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86478323"
+       x="302.45703"
+       y="183.8083"
        id="text4276"
-       transform="scale(0.93034454,1.0748706)"><tspan
+       transform="scale(0.921397,1.0853085)"><tspan
          sodipodi:role="line"
          id="tspan4274"
-         x="305.82285"
-         y="162.96736"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffffff;stroke-width:0.96089202">HEY, I'M JERY LENAS</tspan></text>
+         x="302.45703"
+         y="183.8083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffffff;stroke-width:0.86478323">HEY, I'M JERY LENAS</tspan></text>
   </g>
 </svg>
