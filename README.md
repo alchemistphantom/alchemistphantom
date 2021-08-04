@@ -2,7 +2,7 @@
 
 <!-- <img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" style="object-fit:contain"  /> -->
 
-# Hi There, I'm Jery Lenas
+<!-- # Hi There, I'm Jery Lenas -->
 
 <img  align="left" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="300" height="300" />
 
