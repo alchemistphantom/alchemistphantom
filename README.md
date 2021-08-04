@@ -28,4 +28,4 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 
 </p>
 
-<img src="./images/bottom.svg" data-canonical-src="./images/bottom.png" width="100%"  />
+<img src="./images/bottom.svg" data-canonical-src="./images/bottom.svg" width="100%"  />
