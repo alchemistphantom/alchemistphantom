@@ -1,4 +1,4 @@
-<img src="./images/top.svg" data-canonical-src="./images/top.png" width="100%"  />
+<img src="./images/top.svg" data-canonical-src="./images/top.svg" width="100%"  />
 
 <!-- <img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" style="object-fit:contain"  /> -->
 
