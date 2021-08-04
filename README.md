@@ -4,7 +4,7 @@
 
 <!-- # Hi There, I'm Jery Lenas -->
 
-<img  align="left" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="300" height="300" style="position:absolute" />
+<img  align="left" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="250" height="250" style="position:absolute" />
 
 ![version :03.08.2021](https://img.shields.io/badge/version-03.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=alchemistphantom&color=red)&nbsp;
