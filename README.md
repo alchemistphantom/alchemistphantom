@@ -17,6 +17,7 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - 🌱 I’m currently learning ReactJs.
 - :pencil2: learn UI/UX on free days.
 - :musical_note: I love playing guitar and hear classic instrumental music. <br/>
+- :loop: My daily routine consists of (but not limited to) drinking coffee, coding, reading 😉.
 
 <!-- ### Let's Connect :coffee: -->
    <h4 align="center">Let's Connect :coffee:</h4>
@@ -25,7 +26,6 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
     <a href="https://www.linkedin.com/in/jery-i-d-lenas-6b6045136/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/alchemistphantom/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://twitter.com/lenas_el"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-
 </p>
 
 <img src="./images/bottom.svg" data-canonical-src="./images/bottom.svg" width="100%"  />
