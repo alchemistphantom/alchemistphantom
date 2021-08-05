@@ -17,7 +17,7 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
 - 🌱 I’m currently learning ReactJs.
 - :pencil2: learn UI/UX on free days.
 - :musical_note: I love playing guitar and hear classic instrumental music. <br/>
-- :loop: My daily routine consists of (but not limited to) drinking coffee, coding, reading 😉.
+- :loop: My daily routine consists of (but not limited to) drinking coffee, coding, reading book, overcoming boredom 😉.
 
 <!-- ### Let's Connect :coffee: -->
    <h4 align="center">Let's Connect :coffee:</h4>
