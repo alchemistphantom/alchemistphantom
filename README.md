@@ -2,7 +2,7 @@
 
 <!-- <img src="./images/top.png" data-canonical-src="./images/top.png" width="100%" style="object-fit:contain"  /> -->
 
-<!-- # Hi There, I'm Jery Lenas -->
+<!-- # Hi There, I'm Jery Lenas  -->
 
 <img  align="left" src="./images/hi.gif" data-canonical-src="./images/bottom.png"  width="250" height="250" style="position:absolute" />
 
@@ -28,4 +28,4 @@ I love coding in ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?styl
     <a href="https://twitter.com/lenas_el"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-<img src="./images/bottom.svg" data-canonical-src="./images/bottom.svg" width="100%"  />
+<img  src="./images/bottom.svg" data-canonical-src="./images/bottom.svg" width="100%"  />
